@@ -144,3 +144,145 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+.box1 {
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    background-color: teal;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box2 {
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    background-color: gold;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box3 {
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    background-color: cadetblue;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box4 {
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    background-color: coral;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box5 {
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    background-color: crimson;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box6 {
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    background-color: forestgreen;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box7 {
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    background-color: darkorchid;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box8 {
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    background-color: hotpink;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box9 {
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    background-color: indigo;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box10 {
+    width: 12.5%;
+    height: 100px;
+    margin: 20px 2.5%;
+    background-color: dodgerblue;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+header {
+    width: 800px;
+    display: flex;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+navtop {
+    width: 100%;
+    display: flex;
+	justify-content: space-around;
+    align-items: center;
+}
+b {
+   padding: 20px;
+}
+.about-page {
+    display: flex;
+    flex-direction: column;
+}
+.block1 {
+    display: flex;
+}
+.block2 {
+    display: flex;
+}
+body {
+    width: 800px;
+    align: center;
+}
