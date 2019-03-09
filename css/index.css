@@ -264,7 +264,7 @@ header {
     margin-bottom: 20px;
 }
 
-navtop {
+nav[role="top"] {
     width: 100%;
     display: flex;
 	justify-content: space-around;
@@ -319,4 +319,7 @@ p {
     100% {
         background-color: indigo;
     }
+}
+h2 {
+    margin-top: 10px;
 }
