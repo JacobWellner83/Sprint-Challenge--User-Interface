@@ -261,6 +261,7 @@ header {
     font-family: 'Roboto', sans-serif;
     font-size: 14px;
     font-weight: bold;
+    margin-bottom: 20px;
 }
 
 navtop {
@@ -278,11 +279,35 @@ b {
 }
 .block1 {
     display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px dashed;
 }
 .block2 {
     display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px dashed;
 }
 body {
     width: 800px;
-    align: center;
+    margin: auto;
+}
+button {
+    background-color: white;
+    text-align: center;
+    border: solid black 3px;
+    border-radius: 12px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+p {
+    margin-bottom: 20px;
+}
+.about {
+    border-bottom: 1px dashed;
 }
