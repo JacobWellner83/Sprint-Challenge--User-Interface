@@ -296,7 +296,6 @@ body {
     margin: auto;
 }
 button {
-    background-color: white;
     text-align: center;
     border: solid black 3px;
     border-radius: 12px;
@@ -304,10 +303,20 @@ button {
     padding-bottom: 10px;
     padding-left: 15px;
     padding-right: 15px;
+    animation: pulse 10s infinite;
 }
 p {
     margin-bottom: 20px;
 }
 .about {
     border-bottom: 1px dashed;
+}
+
+@keyframes pulse {
+    0% {
+        background-color: orangered;
+    }
+    100% {
+        background-color: indigo;
+    }
 }
